@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Father. Dog Dad. Tech Enthusiest. Former Addict. Now a command line junkie.
+subtitle: Father & Former Addict, now a command line junkie & fitness enthusiast. 
 
 profile:
   align: left
