@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Father & Former Addict, now a command line junkie & fitness enthusiast. 
+subtitle: Father & Former Addict, now a command line Junkie & Fitness Enthusiast. 
 
 profile:
   align: left
@@ -25,4 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Just a former TAC engineer, passionate about technology, who stumbled, faced his demons, and fought to reclaim his life. Now I'm sober, driven, and eager to rebuild my career while exploring my curiosities and expanding my skill set. 
+A former firewall TAC engineer, passionate
+about linux & cybersecurity, documenting his journey back from the bottom.  
